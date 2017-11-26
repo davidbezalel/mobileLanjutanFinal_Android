@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Si Jaka</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_about">About</string>
+
+    <string name="internal_server_error">Terjadi kesalahan, silahkan hubungi admin.</string>
+</resources>
